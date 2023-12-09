@@ -1,0 +1,36 @@
+[
+  {
+    "portfolioID": 1,
+    "portfolioMaxValue": 10000,
+    "sector":
+      [
+        {
+          "sectorname": "FINANCE",
+          "rate": 40
+        },
+        {
+          "sectorname": "HEALTHCARE",
+          "rate": 30
+        },
+        {
+          "sectorname": "TECH",
+          "rate": 30
+        }
+      ]
+  },
+  {
+    "portfolioID": 2,
+    "portfolioMaxValue": 20000,
+    "sector":
+    [
+      {
+        "sectorname": "FINANCE",
+        "rate": 30
+      },
+      {
+        "sectorname": "HEALTHCARE",
+        "rate": 70
+      }
+    ]
+  }
+]

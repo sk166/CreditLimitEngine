@@ -1,0 +1,48 @@
+[
+  {
+    "sector": "FINANCE",
+    "securities":
+            [
+              {
+                "name": "ING"
+              },
+              {
+                "name": "RABO"
+              },
+              {
+                "name": "ABN"
+              }
+            ]
+  },
+  {
+    "sector": "HEALTHCARE",
+    "securities":
+            [
+              {
+                "name": "ROCHE"
+              },
+              {
+                "name": "PFIZER"
+              },
+              {
+                "name": "NOVARTIS"
+              }
+            ]
+  },
+  {
+    "sector": "TECH",
+    "securities":
+            [
+              {
+              "name": "GOOGLE"
+              },
+              {
+                "name": "FACEBOOK"
+              },
+              {
+                "name": "MICROSOFT"
+              }
+            ]
+
+  }
+]
