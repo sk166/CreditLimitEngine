@@ -54,7 +54,7 @@ public class Client {
                 System.out.println("S for Sector,C for Company/Security");
                 System.out.println("ex. (EXEC,S,1,BUY,TECH,1000) or (e.g., EXEC,C,1,BUY,ING,1000)");
                 System.out.println("-------------------------------------------------------------");
-                System.out.println("To show portfolio enter SHOW PORTFOLIO PORTFOLIO_ID");
+                System.out.println("To show portfolio enter SHOW,PORTFOLIO,PORTFOLIO_ID");
                 System.out.println("ex. SHOW,PORTFOLIO,1");
                 System.out.println("--------------------");
                 System.out.println("EXIT");
@@ -78,7 +78,7 @@ public class Client {
                         System.out.println("S for Sector,C for Company/Security");
                         System.out.println("ex. (EXEC,S,1,BUY,TECH,1000) or (e.g., EXEC,C,1,BUY,ING,1000)");
                         System.out.println("-------------------------------------------------------------");
-                        System.out.println("To show portfolio enter SHOW PORTFOLIO PORTFOLIO_ID");
+                        System.out.println("To show portfolio enter SHOW,PORTFOLIO,PORTFOLIO_ID");
                         System.out.println("ex. ( SHOW,PORTFOLIO,1 )");
                         System.out.println("------------------------");
                         System.out.println("EXIT");
