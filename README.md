@@ -51,7 +51,7 @@ ex. (EXEC,S,1,BUY,TECH,1000) or (e.g., EXEC,C,1,BUY,ING,1000)<br/>
 Other avaible commands:
 </b>
 <br/>
-To show portfolio info enter <b>SHOW PORTFOLIO PORTFOLIO_ID</b><br/>
+To show portfolio info enter <b>SHOW,PORTFOLIO,PORTFOLIO_ID</b><br/>
 ex. <b>SHOW,PORTFOLIO,1</b><br/>
 
 Please check supported  security names from <b>security_sector_info.json</b> file.<br/>
