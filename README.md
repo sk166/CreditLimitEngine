@@ -2,7 +2,7 @@ This is an IntelliJ Idea Project.
 
 How to use server/client application
 ----------------------------
-Please be sure that; <b><i>portfolio_info.json, security_sector_info.json</b></i> and <b><i>simulation_data.csv</i></b> files are at the same directory with <i>CreditLimitEngine.jar</i> file.<br/>
+Please be sure that; <b><i>trade_sector.json, portfolio_info.json, security_sector_info.json</b></i> and <b><i>simulation_data.csv</i></b> files are at the same directory with <i>CreditLimitEngine.jar</i> file.<br/>
 
 to see server application parameters<br/>
 <b>java -jar CreditLimitEngine.jar</b>
